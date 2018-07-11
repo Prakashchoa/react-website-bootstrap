@@ -2,15 +2,20 @@ https://react-bootstrap.github.io/layout/grid/
 
 https://croppola.com/ (photos crop onlie tool)
 
-
 http://www.bobrosslipsum.com/  (references for pharagraph)
+
+install node js
+
+nmp install create-react-app -g
 
 create-react-app my-app
 
 after install npm type code . to open vs code
 
-
 npm install --save react-bootstrap
 
 
 npm install --save react-router-dom
+
+npm start to start server
+npm stop to stop server
